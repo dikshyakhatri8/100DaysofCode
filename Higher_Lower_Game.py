@@ -1,9 +1,7 @@
-"""" Display art """
+# Display art
 
 
 
 
 
-""" Generate
-
-import 
+# Generate a random account from the game data 
